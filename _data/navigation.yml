@@ -57,4 +57,4 @@ header:
       en-CA   : *EN
       en-AU   : *EN
       # @end locale config
-    url: /my-impossible-list.md
+    url: /my-impossible-list
