@@ -26,25 +26,30 @@ titles:
 key: page-about
 ---
 
-## Features
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+# My Impossible List 
+##### This is just a page that will help me stay focused on reaching those goals :muscle:
 
-## Skins
+## Current Focuses:
+- Meditate for 30 days in a row
+- Learn Basic Photography
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+## Last 5 Completed Goals
+- Run 10km under 60 minutes
+- Run a 10km race
+- La Liga – Spain
+- Madrid
+- Champions League – Europe (photo)
+- Christ the Redeemer Statue (Rio de Janeiro)
+
+### Fitness/Health Goals
+- Run a 5km race
+    - Run 5km under 25 minutes
+- ~Run a 10km race~
+    - ~Run 10km under 60 minutes~
+    - Run 10km under 50 minutes
+- Run any race outside of Portugal
+- Run a Half marathon (21,1km)
+- Meditate for 30 days in a row
+    - Complete the Headspace Journey
+- Run 1km under 4m:30
