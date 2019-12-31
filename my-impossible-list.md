@@ -26,14 +26,13 @@ titles:
 key: page-about
 ---
 
-# My Impossible List 
 ##### This is just a page that will help me stay focused on reaching those goals :muscle:
-
-## Current Focuses:
+## 
+### Current Focuses:
 - Meditate for 30 days in a row
 - Learn Basic Photography
 
-## Last Completed Goals
+### Last Completed Goals
 - Run 10km under 60 minutes
 - Run a 10km race
 - La Liga – Spain
@@ -41,7 +40,7 @@ key: page-about
 - Champions League – Europe (photo)
 - Live/work abroad
 - Christ the Redeemer Statue (Rio de Janeiro)
-##
+## 
 
 ### Fitness/Health Goals
 - Run a 5km race
@@ -123,7 +122,7 @@ Guide to Photography)
 - Winter Olympic Games
 
 ### Financial Goals
-- Save at least $1 monthly for 12 months in a row
+- Save at least 50€ monthly for 12 months in a row
 - Invest monthly for 12 months in a row
 - Create a new source of income
 - Being able to retire at age [to be defined]
