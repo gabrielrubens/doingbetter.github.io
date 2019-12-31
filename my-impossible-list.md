@@ -33,7 +33,7 @@ key: my-impossible-list
 ### Fitness/Health Goals
 - Run a 5km race
     - Run 5km under 25 minutes
-- ~~Run a 10km race
+- ~Run a 10km race~
     - ~~Run 10km under 60 minutes
     - Run 10km under 50 minutes
 - Run any race outside of Portugal
