@@ -9,11 +9,13 @@ titles:
   en-AU   : *EN
   
   # @end locale config
-key: page-about
+key: my-impossible-list
 ---
 
 ##### This is just a page that will help me stay focused on reaching those goals :muscle:
+
 ## 
+
 ### Current Focuses:
 - Meditate for 30 days in a row
 - Learn Basic Photography
