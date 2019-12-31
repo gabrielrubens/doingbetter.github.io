@@ -26,7 +26,6 @@ titles:
 key: page-about
 ---
 
-
 # My Impossible List 
 ##### This is just a page that will help me stay focused on reaching those goals :muscle:
 
@@ -34,13 +33,15 @@ key: page-about
 - Meditate for 30 days in a row
 - Learn Basic Photography
 
-## Last 5 Completed Goals
+## Last Completed Goals
 - Run 10km under 60 minutes
 - Run a 10km race
 - La Liga – Spain
 - Madrid
 - Champions League – Europe (photo)
+- Live/work abroad
 - Christ the Redeemer Statue (Rio de Janeiro)
+##
 
 ### Fitness/Health Goals
 - Run a 5km race
@@ -53,3 +54,78 @@ key: page-about
 - Meditate for 30 days in a row
     - Complete the Headspace Journey
 - Run 1km under 4m:30
+
+### Good Habits Goals
+- Journaling for 30 days in a row
+- Create the goal of the day every morning for 30 days in a row
+- Drink water as soon as I wake up for 30 days in a row
+- Take a cold shower in the morning for 30 days in a row
+- Read X pages a day for X days in a row
+	- Read 10 pages a day for 30 days in a row
+
+### Travel Goals
+
+### Professional Goals
+- Kanban Coaching Masterclass
+
+### New Skill Goals
+- Learn Basic Photography
+    - Finish the Udemy course without exercises (Photography Masterclass: A Complete
+Guide to Photography)
+    - Review video about my camera
+    - Finish the entire Udemy Masterclass course with exercises
+    - Finish 3 Photography Projects
+    - [Study Other People’s Work](https://pixelsandwanderlust.com/how-to-teach-yourself-photography/#ftoc-heading-8)
+- Learn how to cook
+- Learn Forró dance
+- Learn to Surf for real
+    - Improve my swimming skill
+
+### Languages Goals
+- Improve my English
+- Learn Spanish
+    - Finish the Memrise Spanish course
+    - Complete the Duolingo Language Tree
+    - Complete the Spanish Language Hacking
+    - Complete 50 hours of conversation in Spanish
+    - Read a book in Spanish
+    - Speak only Spanish with a native for at least 15min
+- Learn Russian
+
+### Fun and/or “Insane” Goals
+- Do the CN Tower Edge Walk
+- Go skydiving
+- Go bungee jumping
+- Try the Rejection Therapy for 30 days in a row (https://www.youtube.com/user/DukieAjah/videos)
+- Go to Itaquera stadium wearing a black suit (only the top)
+
+### Life Goals
+- ~Live/work abroad~
+- No food waster for 30 days in a row (https://www.youtube.com/watch?v=6RlxySFrkIM)
+- Help 1 Entrepreneur Through Kiva.org
+
+### Events to Attend
+- Football
+	- Brasileirão/Campeonato Brasileiro (Brazil)
+	- Copa do Brasil – Brazil
+	- Copa Libertadores da América – South America
+	- Champions League – Europe (photo)
+	- Europa League – Europe
+	- Premier League – England
+	- La Liga – Spain
+	- Bundesliga – Germany
+	- Serie A – Italy
+	- Ligue 1 – France
+	- J1 League – Japan
+- NBA
+- FIFA World Cup
+- Summer Olympic Games
+- Winter Olympic Games
+
+### Financial Goals
+- Save at least $1 monthly for 12 months in a row
+- Invest monthly for 12 months in a row
+- Create a new source of income
+- Being able to retire at age [to be defined]
+
+# All Completed Goals
