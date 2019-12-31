@@ -33,8 +33,8 @@ key: my-impossible-list
 ### Fitness/Health Goals
 - Run a 5km race
     - Run 5km under 25 minutes
-- ~Run a 10km race~
-    - ~~Run 10km under 60 minutes
+- ~~Run a 10km race~~
+    - ~~Run 10km under 60 minutes~~
     - Run 10km under 50 minutes
 - Run any race outside of Portugal
 - Run a Half marathon (21,1km)
@@ -87,7 +87,7 @@ Guide to Photography)
 - Go to Itaquera stadium wearing a black suit (only the top)
 
 ### Life Goals
-- ~~Live/work abroad
+- ~~Live/work abroad~~
 - No food waster for 30 days in a row (https://www.youtube.com/watch?v=6RlxySFrkIM)
 - Help 1 Entrepreneur Through Kiva.org
 
