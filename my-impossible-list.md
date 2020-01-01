@@ -14,7 +14,6 @@ key: my-impossible-list
 
 ##### This is just a page that will help me stay focused on reaching those goals :muscle:
 
----
 ### Current Focuses:
 - Meditate for 30 days in a row
 - Learn Basic Photography
@@ -28,7 +27,6 @@ key: my-impossible-list
 - Live/work abroad
 - Christ the Redeemer Statue (Rio de Janeiro)
 
----
 
 ### Fitness/Health Goals
 - Run a 5km race
