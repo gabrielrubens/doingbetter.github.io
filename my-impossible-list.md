@@ -113,4 +113,48 @@ Guide to Photography)
 - Create a new source of income
 - Being able to retire at age [to be defined]
 
+### Travel Goals
+- Visit all Brazil states
+- Visit every district of Portugal
+- Visit every Continent
+	- Africa
+	- Europe
+	- Asia
+	- North America
+	- South America
+	- Australia (or Oceania)
+	- Antarctica
+	- Africa
+
+- Visit all the New Seven Wonders of the World
+	- Great Wall of China (China)
+	- Christ the Redeemer Statue (Rio de Janeiro)
+	- Machu Picchu (Peru)
+	- Chichen Itza (Yucatan Peninsula, Mexico)
+	- The Roman Colosseum (Rome)
+	- Taj Mahal (Agra, India)
+	- Petra (Jordan)
+	
+- Go swimming in every Ocean
+
+- Africa
+	- South Africa
+- Europe
+	- Austria
+	- ~~Belarus~~
+	- ~~Belgium~~
+	- Croatia
+	- Estonia
+	- France
+	- ~~Germany~~
+	- Greece
+	- Irland
+	- Italy
+	- ~~Netherland~~
+	- ~~Poland~~
+	- Serbia
+	- South Africa
+	- ~~Spain~~
+	- Ukraine
+
 # All Completed Goals
