@@ -159,7 +159,7 @@ Guide to Photography)
 	- ~~Spain~~
 	- ~~Switzerland~~
 	- Ukraine
-North America
+- North America
 	- ~~Canada~~
 	
 
