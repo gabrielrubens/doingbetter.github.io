@@ -118,13 +118,12 @@ Guide to Photography)
 - Visit every district of Portugal
 - Visit every Continent
 	- Africa
-	- Europe
+	- ~~Europe~~
 	- Asia
-	- North America
-	- South America
+	- ~~North America~~
+	- ~~South America~~
 	- Australia (or Oceania)
 	- Antarctica
-	- Africa
 
 - Visit all the New Seven Wonders of the World
 	- Great Wall of China (China)
