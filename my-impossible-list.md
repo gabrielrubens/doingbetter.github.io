@@ -145,17 +145,22 @@ Guide to Photography)
 	- ~~Belgium~~
 	- Croatia
 	- Estonia
-	- France
+	- ~~France~~
 	- ~~Germany~~
 	- Greece
 	- Irland
-	- Italy
+	- ~~Italy~~
 	- ~~Lithuania~~
-	- ~~Netherland~~
+	- ~~Netherlands~~
 	- ~~Poland~~
+	- ~~Portugal~~
 	- Serbia
 	- South Africa
 	- ~~Spain~~
+	- ~~Switzerland~~
 	- Ukraine
+North America
+	- ~~Canada~~
+	
 
 # All Completed Goals
