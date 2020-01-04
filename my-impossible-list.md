@@ -17,6 +17,7 @@ key: my-impossible-list
 ### Current Focuses:
 - Meditate for 30 days in a row
 - Learn Basic Photography
+	- Finish the entire Udemy Masterclass course with exercises
 
 ### Last Completed Goals
 - Run 10km under 60 minutes
@@ -55,9 +56,9 @@ key: my-impossible-list
 
 ### New Skill Goals
 - Learn Basic Photography
-    - Finish the Udemy course without exercises (Photography Masterclass: A Complete
-Guide to Photography)
-    - Review video about my camera
+    - ~~Finish the Udemy course without exercises (Photography Masterclass: A Complete
+Guide to Photography)~~
+    - ~~Review video about my camera~~
     - Finish the entire Udemy Masterclass course with exercises
     - Finish 3 Photography Projects
     - [Study Other People’s Work](https://pixelsandwanderlust.com/how-to-teach-yourself-photography/#ftoc-heading-8)
@@ -94,14 +95,13 @@ Guide to Photography)
 	- Brasileirão/Campeonato Brasileiro (Brazil)
 	- Copa do Brasil – Brazil
 	- Copa Libertadores da América – South America
-	- Champions League – Europe (photo)
+	- ~~Champions League – Europe (photo)~~
 	- Europa League – Europe
 	- Premier League – England
-	- La Liga – Spain
+	- ~~La Liga – Spain~~
 	- Bundesliga – Germany
 	- Serie A – Italy
 	- Ligue 1 – France
-	- J1 League – Japan
 - NBA
 - FIFA World Cup
 - Summer Olympic Games
@@ -127,7 +127,7 @@ Guide to Photography)
 
 - Visit all the New Seven Wonders of the World
 	- Great Wall of China (China)
-	- Christ the Redeemer Statue (Rio de Janeiro)
+	- ~~Christ the Redeemer Statue (Rio de Janeiro)~~
 	- Machu Picchu (Peru)
 	- Chichen Itza (Yucatan Peninsula, Mexico)
 	- The Roman Colosseum (Rome)
