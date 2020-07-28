@@ -1,7 +1,5 @@
 ---
-layout: page
-# articles:
-#   excerpt_type: html
+layout: landing
 ---
 
 ##### This is just a page that will help me stay focused on reaching those goals :muscle:
