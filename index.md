@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: landing
 # articles:
 #   excerpt_type: html
 ---
