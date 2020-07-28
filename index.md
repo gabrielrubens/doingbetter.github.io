@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: page
 ---
 # My Impossible List
 ##### This is just a page that will help me stay focused on reaching those goals :muscle:
